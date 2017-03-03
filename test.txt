@@ -1,0 +1,17 @@
+ Volume in drive F has no label.
+ Volume Serial Number is F6B4-F871
+
+ Directory of F:\vmi\vmi
+
+2017/03/03  15:50    <DIR>          .
+2017/03/03  15:50    <DIR>          ..
+2017/03/03  15:49               378 .editorconfig
+2017/03/03  15:49               940 package.json
+2017/03/03  15:49               274 README.md
+2017/03/03  15:50                 0 test.txt
+2017/03/03  15:49             1,267 webpack.config.js
+
+ Directory of F:\vmi\vmi
+
+               5 File(s)          2,859 bytes
+               2 Dir(s)  451,936,718,848 bytes free
